@@ -1,2 +1,4 @@
 # Enigma
 ***This is a project that simulates a enigma machine. Enigma is a cryptographic device that was used by the Germans during WW2 to encode and decode messages.***
+- This a a simple to use project. When you compile and run the project it will promt you to select some settings, the first one will be rotor slot setting: (this is a 3 rotor enigma), you can choose number from 1 to 5.(make sure to select differnt numbers, to make it more secure). next u will have to enter the rotor number setting, enter a number from 0 to 25. follow the same instructions a above for breakpoint setting. now remember these settings and tell your friend these settings, now typle a letter in capitals one by one, u will get the encoded chaacters. now send thsese characters to your friend and he will get the decoded message.
+ 
